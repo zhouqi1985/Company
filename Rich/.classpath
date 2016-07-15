@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/外部JAR/AddAnnex.jar"/>
+	<classpathentry kind="lib" path="E:/外部JAR/eModule.jar"/>
+	<classpathentry kind="lib" path="E:/外部JAR/Jugde.jar"/>
+	<classpathentry kind="lib" path="E:/外部JAR/jxl.jar"/>
+	<classpathentry kind="lib" path="E:/外部JAR/Module.jar"/>
+	<classpathentry kind="lib" path="E:/外部JAR/readExcel.jar"/>
+	<classpathentry kind="lib" path="E:/外部JAR/selenium-java-2.41.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
